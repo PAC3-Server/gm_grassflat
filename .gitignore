@@ -1,1 +1,3 @@
 *.bsp 
+*.bsp.bak
+*.bsp*backup
