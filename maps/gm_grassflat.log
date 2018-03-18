@@ -11361,3 +11361,604 @@ reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons
  764 portalclusters
 2500 numportals
 0...1...2...3...4...5...6...7...8...9...100
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_grassflat/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/gm_grassflat/gm_construct/grass-sand_13_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (464015 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 239 texinfos to 103
+Reduced 28 texdatas to 17 (954 bytes to 482)
+Writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.prt
+ 750 portalclusters
+2451 numportals
+0...1...2...3...4...5...6...7...8...9...100
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_grassflat/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/gm_grassflat/gm_construct/grass-sand_13_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (464015 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 239 texinfos to 103
+Reduced 28 texdatas to 17 (954 bytes to 482)
+Writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.prt
+ 750 portalclusters
+2451 numportals
+0...1...2...3...4...5...6...7...8...9...100
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+No vis information, direct lighting only.
+1512 faces
+1 degenerate faces
+6467582 square feet [931331904.00 square inches]
+21 Displacements
+785956 Square Feet [113177792.00 Square Inches]
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0082 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_grassflat/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/gm_grassflat/gm_construct/grass-sand_13_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (464015 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 239 texinfos to 103
+Reduced 28 texdatas to 17 (954 bytes to 482)
+Writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.prt
+ 750 portalclusters
+2451 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4723 visible clusters (0.88%)
+Total clusters visible: 535411
+Average clusters visible: 713
+Building PAS...
+Average clusters audible: 744
+visdatasize:145813  compressed from 144000
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+1512 faces
+1 degenerate faces
+6467582 square feet [931331904.00 square inches]
+21 Displacements
+785956 Square Feet [113177792.00 Square Inches]
+1511 patches before subdivision
+11925 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 685934, max 410
+transfer lists:   5.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(36518, 25875, 16721)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(12860, 7985, 4795)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4410, 2454, 1301)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1879, 943, 446)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(718, 326, 135)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(302, 124, 46)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(119, 44, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(49, 17, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(20, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(8, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0120 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                180/8192         2160/98304    ( 2.2%) 
+brushsides            1379/65536       11032/524288   ( 2.1%) 
+planes                1484/65536       29680/1310720  ( 2.3%) 
+vertexes              2294/65536       27528/786432   ( 3.5%) 
+nodes                 1818/65536       58176/2097152  ( 2.8%) 
+texinfos               103/12288        7416/884736   ( 0.8%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos               21/0            3696/0        ( 0.0%) 
+disp_verts            2117/0           42340/0        ( 0.0%) 
+disp_tris             3456/0            6912/0        ( 0.0%) 
+disp_lmsamples       35043/0           35043/0        ( 0.0%) 
+faces                 1512/65536       84672/3670016  ( 2.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              488/65536       27328/3670016  ( 0.7%) 
+leaves                1822/65536       58304/2097152  ( 2.8%) 
+leaffaces             1670/65536        3340/131072   ( 2.5%) 
+leafbrushes           1219/65536        2438/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             8858/512000      35432/2048000  ( 1.7%) 
+edges                 5057/256000      20228/1024000  ( 2.0%) 
+LDR worldlights         14/8192         1232/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            119/32768        1190/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2271/65536        4542/131072   ( 3.5%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      810512/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      145813/16777216 ( 0.9%) 
+entdata               [variable]       14472/393216   ( 3.7%) 
+LDR ambient table     1822/65536        7288/262144   ( 2.8%) 
+HDR ambient table     1822/65536        7288/262144   ( 2.8%) 
+LDR leaf ambient      6985/65536      195580/1835008  (10.7%) 
+HDR leaf ambient      1822/65536       51016/1835008  ( 2.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2722     ( 0.0%) 
+pakfile               [variable]     1587971/0        ( 0.0%) 
+physics               [variable]      464015/4194304  (11.1%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 3918
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.bsp
+21 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_grassflat/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/gm_grassflat/gm_construct/grass-sand_13_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (464015 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 242 texinfos to 103
+Reduced 28 texdatas to 17 (954 bytes to 482)
+Writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.bsp
+1 second elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.prt
+ 750 portalclusters
+2451 numportals
+0...1...2...3...4...5...6...7...8...9...100
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_grassflat/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/gm_grassflat/gm_construct/grass-sand_13_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (640595 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 329 texinfos to 106
+Reduced 29 texdatas to 18 (973 bytes to 501)
+Writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.prt
+ 370 portalclusters
+1531 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.00%)
+Total clusters visible: 109418
+Average clusters visible: 295
+Building PAS...
+Average clusters audible: 360
+visdatasize:36428  compressed from 35520
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.bsp
+37 minutes, 32 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+1555 faces
+1 degenerate faces
+6573054 square feet [946519744.00 square inches]
+33 Displacements
+816543 Square Feet [117582224.00 Square Inches]
+1554 patches before subdivision
+8386 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 339244, max 398
+transfer lists:   2.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(15730, 11464, 7131)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5033, 3193, 1857)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1634, 913, 471)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(695, 349, 162)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(260, 117, 48)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(109, 45, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(42, 16, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(17, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(7, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0097 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                187/8192         2244/98304    ( 2.3%) 
+brushsides            1421/65536       11368/524288   ( 2.2%) 
+planes                1526/65536       30520/1310720  ( 2.3%) 
+vertexes              2358/65536       28296/786432   ( 3.6%) 
+nodes                 1867/65536       59744/2097152  ( 2.8%) 
+texinfos               106/12288        7632/884736   ( 0.9%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos               33/0            5808/0        ( 0.0%) 
+disp_verts            3089/0           61780/0        ( 0.0%) 
+disp_tris             4992/0            9984/0        ( 0.0%) 
+disp_lmsamples       34707/0           34707/0        ( 0.0%) 
+faces                 1555/65536       87080/3670016  ( 2.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              507/65536       28392/3670016  ( 0.8%) 
+leaves                1871/65536       59872/2097152  ( 2.9%) 
+leaffaces             1709/65536        3418/131072   ( 2.6%) 
+leafbrushes           1273/65536        2546/131072   ( 1.9%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             9085/512000      36340/2048000  ( 1.8%) 
+edges                 5204/256000      20816/1024000  ( 2.0%) 
+LDR worldlights         14/8192         1232/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            112/32768        1120/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2088/65536        4176/131072   ( 3.2%) 
+cubemapsamples          15/1024          240/16384    ( 1.5%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      513996/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       36428/16777216 ( 0.2%) 
+entdata               [variable]       14734/393216   ( 3.7%) 
+LDR ambient table     1871/65536        7484/262144   ( 2.9%) 
+HDR ambient table     1871/65536        7484/262144   ( 2.9%) 
+LDR leaf ambient      7270/65536      203560/1835008  (11.1%) 
+HDR leaf ambient      1871/65536       52388/1835008  ( 2.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2724     ( 0.0%) 
+pakfile               [variable]     1693596/0        ( 0.0%) 
+physics               [variable]      640595/4194304  (15.3%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 3982
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.bsp
+20 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+1555 faces
+1 degenerate faces
+6573054 square feet [946519744.00 square inches]
+33 Displacements
+816543 Square Feet [117582224.00 Square Inches]
+1554 patches before subdivision
+8386 patches after subdivision
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 339244, max 398
+transfer lists:   2.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(16375, 11895, 7438)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5257, 3329, 1941)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1750, 976, 506)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(737, 370, 172)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(279, 126, 52)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(116, 47, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(45, 17, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(19, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(7, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0101 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                187/8192         2244/98304    ( 2.3%) 
+brushsides            1421/65536       11368/524288   ( 2.2%) 
+planes                1526/65536       30520/1310720  ( 2.3%) 
+vertexes              2358/65536       28296/786432   ( 3.6%) 
+nodes                 1867/65536       59744/2097152  ( 2.8%) 
+texinfos               106/12288        7632/884736   ( 0.9%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos               33/0            5808/0        ( 0.0%) 
+disp_verts            3089/0           61780/0        ( 0.0%) 
+disp_tris             4992/0            9984/0        ( 0.0%) 
+disp_lmsamples       34707/0           34707/0        ( 0.0%) 
+faces                 1555/65536       87080/3670016  ( 2.4%) 
+hdr faces             1555/65536       87080/3670016  ( 2.4%) 
+origfaces              507/65536       28392/3670016  ( 0.8%) 
+leaves                1871/65536       59872/2097152  ( 2.9%) 
+leaffaces             1709/65536        3418/131072   ( 2.6%) 
+leafbrushes           1273/65536        2546/131072   ( 1.9%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             9085/512000      36340/2048000  ( 1.8%) 
+edges                 5204/256000      20816/1024000  ( 2.0%) 
+LDR worldlights         14/8192         1232/720896   ( 0.2%) 
+HDR worldlights         14/8192         1232/720896   ( 0.2%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            112/32768        1120/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2088/65536        4176/131072   ( 3.2%) 
+cubemapsamples          15/1024          240/16384    ( 1.5%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      513996/0        ( 0.0%) 
+HDR lightdata         [variable]      513996/0        ( 0.0%) 
+visdata               [variable]       36428/16777216 ( 0.2%) 
+entdata               [variable]       14734/393216   ( 3.7%) 
+LDR ambient table     1871/65536        7484/262144   ( 2.9%) 
+HDR ambient table     1871/65536        7484/262144   ( 2.9%) 
+LDR leaf ambient      7270/65536      203560/1835008  (11.1%) 
+HDR leaf ambient      7292/65536      204176/1835008  (11.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2724     ( 0.0%) 
+pakfile               [variable]     1693596/0        ( 0.0%) 
+physics               [variable]      640595/4194304  (15.3%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 3982
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_grassflat\maps\gm_grassflat.bsp
+20 seconds elapsed
